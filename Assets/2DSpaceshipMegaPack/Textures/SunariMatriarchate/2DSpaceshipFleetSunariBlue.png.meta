@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: c49d90058798d2d41a67ac90953e9dbe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6645089268253503945
+    second: CarrierSunariBlue
+  - first:
+      213: -4013056188061083601
+    second: BattleshipSunariBlue
+  - first:
+      213: -171922772111317556
+    second: DestroyerSunariBlue
+  - first:
+      213: 729993750559983666
+    second: FrigateSunariBlue
+  - first:
+      213: 5680197057197629012
+    second: FighterSunariBlue
+  - first:
+      213: -1640080092373201569
+    second: BomberSunariBlue
+  - first:
+      213: 4616141635869022924
+    second: CorvetteSunariBlue
+  - first:
+      213: 471436862416829972
+    second: Engine1SunariBlue
+  - first:
+      213: -429199824344094433
+    second: Engine2SunariBlue
+  - first:
+      213: -2410412148760537452
+    second: Engine3SunariBlue
+  - first:
+      213: -4071814435772720101
+    second: Engine4SunariBlue
+  - first:
+      213: 2592271058172676114
+    second: DamageDecal1SunariBlue
+  - first:
+      213: 2491662877042993119
+    second: DamageDecal2SunariBlue
+  - first:
+      213: 1598646009886657198
+    second: DamageDecal3SunariBlue
+  - first:
+      213: 8967612319768906995
+    second: DamageDecal4SunariBlue
+  - first:
+      213: 6074801577794799757
+    second: DamageDecal5SunariBlue
+  - first:
+      213: -1121269362562314341
+    second: DamageDecal6SunariBlue
+  - first:
+      213: 6489034942030708357
+    second: DamageDecal7SunariBlue
+  - first:
+      213: -6212620470601956744
+    second: DamageDecal8SunariBlue
+  - first:
+      213: 8378330176110689202
+    second: BaseHeavySunariBlue
+  - first:
+      213: -7292173382837473326
+    second: BaseMediumSunariBlue
+  - first:
+      213: -3477001703576393042
+    second: BaseSmallSunariBlue
+  - first:
+      213: 123238090505609612
+    second: HeavyWeapon1SunariBlue
+  - first:
+      213: 6923021310927966754
+    second: HeavyWeapon2SunariBlue
+  - first:
+      213: -1957816958795005626
+    second: MediumWeapon1SunariBlue
+  - first:
+      213: 1063193381749436021
+    second: MediumWeapon2SunariBlue
+  - first:
+      213: -2406429454986410512
+    second: SmallWeaponSunariBlue
+  - first:
+      213: -482531302376797871
+    second: MissileSunariBlue
+  - first:
+      213: -7807652605685196532
+    second: TorpedoSunariBlue
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CarrierSunariBlue
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 38
+        width: 629
+        height: 1140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1b2077b79183c50800000000000000
+      internalID: 6645089268253503945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleshipSunariBlue
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 24
+        width: 647
+        height: 1361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f289fe6b8a2ce48c0800000000000000
+      internalID: -4013056188061083601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyerSunariBlue
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 39
+        width: 457
+        height: 922
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc5218f46253d9df0800000000000000
+      internalID: -171922772111317556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrigateSunariBlue
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1096
+        width: 356
+        height: 573
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238026ec275712a00800000000000000
+      internalID: 729993750559983666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSunariBlue
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1776
+        width: 155
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45edb78e02d14de40800000000000000
+      internalID: 5680197057197629012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberSunariBlue
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1788
+        width: 181
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5dc7e278d34d39e0800000000000000
+      internalID: -1640080092373201569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorvetteSunariBlue
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1692
+        width: 247
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca1dd64c54df0040800000000000000
+      internalID: 4616141635869022924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine1SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1563
+        width: 349
+        height: 474
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e316e1451ea8600800000000000000
+      internalID: 471436862416829972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine2SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1700
+        width: 365
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f196f44a80d2b0af0800000000000000
+      internalID: -429199824344094433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine3SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1402
+        width: 90
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49697deebee7c8ed0800000000000000
+      internalID: -2410412148760537452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine4SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1492
+        width: 48
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c957418520e77c0800000000000000
+      internalID: -4071814435772720101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal1SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1477
+        width: 154
+        height: 165
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21888effac899f320800000000000000
+      internalID: 2592271058172676114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal2SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1567
+        width: 159
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7ec2e6f2a249220800000000000000
+      internalID: 2491662877042993119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal3SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1445
+        width: 180
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaac3e473188f2610800000000000000
+      internalID: 1598646009886657198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal4SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1347
+        width: 119
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fc0e3374eb537c70800000000000000
+      internalID: 8967612319768906995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal5SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1342
+        width: 121
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88017d69d70e4450800000000000000
+      internalID: 6074801577794799757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal6SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1269
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fc1fa94737070f0800000000000000
+      internalID: -1121269362562314341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal7SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1260
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e76de36eead0a50800000000000000
+      internalID: 6489034942030708357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal8SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1269
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872437d099658c9a0800000000000000
+      internalID: -6212620470601956744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseHeavySunariBlue
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1939
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb7306a7eec54470800000000000000
+      internalID: 8378330176110689202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseMediumSunariBlue
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1846
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dfe963a1fefcca90800000000000000
+      internalID: -7292173382837473326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseSmallSunariBlue
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1770
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaaa6ee5f553fbfc0800000000000000
+      internalID: -3477001703576393042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeapon1SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1820
+        width: 52
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81626fe364d5b100800000000000000
+      internalID: 123238090505609612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeapon2SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1820
+        width: 96
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222125ad333831060800000000000000
+      internalID: 6923021310927966754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon1SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1696
+        width: 41
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641c9c359df64d4e0800000000000000
+      internalID: -1957816958795005626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon2SunariBlue
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1695
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ea8b66fb831ce00800000000000000
+      internalID: 1063193381749436021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallWeaponSunariBlue
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1693
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f58f761925aa9ed0800000000000000
+      internalID: -2406429454986410512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileSunariBlue
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1943
+        width: 14
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15903d84654bd49f0800000000000000
+      internalID: -482531302376797871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorpedoSunariBlue
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1944
+        width: 24
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c091b746255a5a390800000000000000
+      internalID: -7807652605685196532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

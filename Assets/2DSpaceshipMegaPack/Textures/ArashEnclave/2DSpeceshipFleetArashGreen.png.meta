@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: d0f20118e7b6eb94b9713f971404f471
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -569037303485596096
+    second: CarrierArashGreen
+  - first:
+      213: 5253070448097550211
+    second: BattleshipArashGreen
+  - first:
+      213: 1403833710127324431
+    second: FrigateArashGreen
+  - first:
+      213: 7199667835347582210
+    second: CorvetteArashGreen
+  - first:
+      213: 8364492121701650492
+    second: BomberArashGreen
+  - first:
+      213: -7635750375578890106
+    second: FighterArashGreen
+  - first:
+      213: -3711123042889337439
+    second: DestroyerArashGreen
+  - first:
+      213: -3648177497291552920
+    second: Engine1ArashGreen
+  - first:
+      213: 1370063091455767582
+    second: Engine2ArashGreen
+  - first:
+      213: -2308950279625260950
+    second: Engine3ArashGreen
+  - first:
+      213: -939536528270256178
+    second: Engine4ArashGreen
+  - first:
+      213: -4510403008010451627
+    second: DamageDecal1ArashGreen
+  - first:
+      213: -2734065813356574719
+    second: DamageDecal2ArashGreen
+  - first:
+      213: 7275447175539036751
+    second: DamageDecal3ArashGreen
+  - first:
+      213: -7802202800705150666
+    second: DamageDecal4ArashGreen
+  - first:
+      213: -360837348645292883
+    second: DamageDecal5ArashGreen
+  - first:
+      213: -6012273038113186929
+    second: DamageDecal6ArashGreen
+  - first:
+      213: 872342081747875423
+    second: DamageDecal7ArashGreen
+  - first:
+      213: 584354563522612710
+    second: DamageDecal8ArashGreen
+  - first:
+      213: 7892060782613775260
+    second: MissileArashGreen
+  - first:
+      213: -1753233218976026332
+    second: TorpedoArashGreen
+  - first:
+      213: -560153530713275247
+    second: BaseHeavyArashGreen
+  - first:
+      213: -4280333347920725287
+    second: BaseMediumArashGreen
+  - first:
+      213: 3880135935388377443
+    second: BaseSmallArashGreen
+  - first:
+      213: -213124814811892314
+    second: HeavyWeapon1ArashGreen
+  - first:
+      213: 3659239126095420387
+    second: HeavyWeapon2ArashGreen
+  - first:
+      213: 2008195379363948578
+    second: SmallWeaponArashGreen
+  - first:
+      213: -5448150963911266952
+    second: MediumWeapon2ArashGreen
+  - first:
+      213: -8542615103750364577
+    second: MediumWeapon1ArashGreen
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CarrierArashGreen
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 1076
+        height: 1103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e7bcd569f5a18f0800000000000000
+      internalID: -569037303485596096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleshipArashGreen
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 30
+        width: 628
+        height: 1499
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fd4f69db7a6e840800000000000000
+      internalID: 5253070448097550211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrigateArashGreen
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 26
+        width: 233
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d9bdf425b6b7310800000000000000
+      internalID: 1403833710127324431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorvetteArashGreen
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 766
+        width: 132
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20db2b230cb5ae360800000000000000
+      internalID: 7199667835347582210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberArashGreen
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1826
+        width: 175
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3094988445a41470800000000000000
+      internalID: 8364492121701650492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterArashGreen
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1797
+        width: 182
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68090164d7d580690800000000000000
+      internalID: -7635750375578890106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyerArashGreen
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1148
+        width: 432
+        height: 888
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a570de31417f7cc0800000000000000
+      internalID: -3711123042889337439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine1ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1594
+        width: 359
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8670d5425e11f5dc0800000000000000
+      internalID: -3648177497291552920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine2ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 1475
+        width: 290
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e14381e6f11730310800000000000000
+      internalID: 1370063091455767582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine3ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 1192
+        width: 141
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a60c5ea34f5f4ffd0800000000000000
+      internalID: -2308950279625260950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine4ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1570
+        width: 77
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec792f2618816f2f0800000000000000
+      internalID: -939536528270256178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal1ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1848
+        width: 182
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5550fa18c54d761c0800000000000000
+      internalID: -4510403008010451627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal2ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1957
+        width: 189
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1088752e0a5ae0ad0800000000000000
+      internalID: -2734065813356574719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal3ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1806
+        width: 205
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f429f10c8a497f460800000000000000
+      internalID: 7275447175539036751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal4ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1680
+        width: 141
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 631696ef3e109b390800000000000000
+      internalID: -7802202800705150666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal5ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1669
+        width: 140
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4bd4cd75c0efaf0800000000000000
+      internalID: -360837348645292883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal6ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1584
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bda96b68d109ca0800000000000000
+      internalID: -6012273038113186929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal7ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1579
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56f431608e2b1c00800000000000000
+      internalID: 872342081747875423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal8ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1584
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edc4a5216b0c1800800000000000000
+      internalID: 584354563522612710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileArashGreen
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1532
+        width: 16
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c934c75c77b368d60800000000000000
+      internalID: 7892060782613775260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorpedoArashGreen
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1532
+        width: 21
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421f4862da34ba7e0800000000000000
+      internalID: -1753233218976026332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseHeavyArashGreen
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1507
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1948726e45fe938f0800000000000000
+      internalID: -560153530713275247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseMediumArashGreen
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1385
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da3dec8f733994c0800000000000000
+      internalID: -4280333347920725287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseSmallArashGreen
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1289
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3616d0d431309d530800000000000000
+      internalID: 3880135935388377443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeapon1ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1732
+        width: 60
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5f0503c14da0df0800000000000000
+      internalID: -213124814811892314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeapon2ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1793
+        width: 100
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebd023099a38c230800000000000000
+      internalID: 3659239126095420387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallWeaponArashGreen
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1648
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 228a192ce0b8edb10800000000000000
+      internalID: 2008195379363948578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon2ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1664
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ded5950974464b0800000000000000
+      internalID: -5448150963911266952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon1ArashGreen
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1664
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52a218e2d8827980800000000000000
+      internalID: -8542615103750364577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

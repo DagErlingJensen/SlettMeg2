@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: f0d72e68a31651746a7560da438b54ec
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5416358894479581243
+    second: BattleshipThaalianGrey
+  - first:
+      213: -8141055922738933971
+    second: CarrierThaalianGrey
+  - first:
+      213: 7029951735113769389
+    second: DestroyerThaalianGrey
+  - first:
+      213: -1866711759795097262
+    second: FrigateThaalianGrey
+  - first:
+      213: 4690414352772492896
+    second: CorvetteThaalianGrey
+  - first:
+      213: 2377274614108083685
+    second: FighterThaalianGrey
+  - first:
+      213: -6472120707533374748
+    second: BomberThaalianGrey
+  - first:
+      213: -6618157108623091995
+    second: Engine1ThaalianGrey
+  - first:
+      213: -6768315405447054084
+    second: Engine2ThaalianGrey
+  - first:
+      213: -1730236367876308649
+    second: Engine3ThaalianGrey
+  - first:
+      213: -6256412773500144341
+    second: Engine4ThaalianGrey
+  - first:
+      213: -5798173207010199273
+    second: Engine5ThaalianGrey
+  - first:
+      213: 615338138231907009
+    second: DamageDecal1ThaalianGrey
+  - first:
+      213: -4024754263757327548
+    second: DamageDecal2ThaalianGrey
+  - first:
+      213: -5552256115552702519
+    second: DamageDecal3ThaalianGrey
+  - first:
+      213: -4991736720831797586
+    second: DamageDecal4ThaalianGrey
+  - first:
+      213: -4126816595109136327
+    second: DamageDecal5ThaalianGrey
+  - first:
+      213: 8855273791414672467
+    second: DamageDecal6ThaalianGrey
+  - first:
+      213: 5813537752929950697
+    second: DamageDecal7ThaalianGrey
+  - first:
+      213: 5216818304733195445
+    second: DamageDecal8ThaalianGrey
+  - first:
+      213: 4312043679504159974
+    second: MissileThaalianGrey
+  - first:
+      213: 5617777035927669408
+    second: TorpedoThaalianGrey
+  - first:
+      213: -2996067018107505929
+    second: BaseHeavyThaalianGrey
+  - first:
+      213: 3847327922735410112
+    second: BaseMediumThaalianGrey
+  - first:
+      213: 9041825896687585668
+    second: BaseSmallThaalianGrey
+  - first:
+      213: 7216361778167571317
+    second: HeavyWeaponThaalianGrey
+  - first:
+      213: 6404034938469054681
+    second: MediumWeapon1ThaalianGrey
+  - first:
+      213: -1423197477526704255
+    second: MediumWeapon2ThaalianGrey
+  - first:
+      213: 2887522347982533560
+    second: SmallWeaponThaalianGrey
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BattleshipThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 58
+        width: 533
+        height: 1914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30ab79a7b5ca2b40800000000000000
+      internalID: 5416358894479581243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 64
+        width: 537
+        height: 1725
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2f4e8c75c8250f80800000000000000
+      internalID: -8141055922738933971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyerThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 28
+        width: 412
+        height: 1124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1e8975bd76f8160800000000000000
+      internalID: 7029951735113769389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrigateThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 29
+        width: 343
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2517e537b8b1816e0800000000000000
+      internalID: -1866711759795097262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorvetteThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 630
+        width: 141
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ee562c003b71140800000000000000
+      internalID: 4690414352772492896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1759
+        width: 187
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5577b8aa6cdf020800000000000000
+      internalID: 2377274614108083685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1428
+        width: 202
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eaf50cd1886e26a0800000000000000
+      internalID: -6472120707533374748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine1ThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1935
+        width: 39
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e65bc89c259724a0800000000000000
+      internalID: -6618157108623091995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine2ThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1755
+        width: 81
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc3682bffc1212a0800000000000000
+      internalID: -6768315405447054084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine3ThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1838
+        width: 88
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751454bc037fcf7e0800000000000000
+      internalID: -1730236367876308649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine4ThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1812
+        width: 143
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25be4bfab1cc29a0800000000000000
+      internalID: -6256412773500144341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine5ThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1795
+        width: 104
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71938f13030c88fa0800000000000000
+      internalID: -5798173207010199273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal1ThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1318
+        width: 182
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2201ac6ce1a8800800000000000000
+      internalID: 615338138231907009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal2ThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1429
+        width: 186
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443718832533528c0800000000000000
+      internalID: -4024754263757327548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal3ThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1279
+        width: 205
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cfad72ea7c62f2b0800000000000000
+      internalID: -5552256115552702519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal4ThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1152
+        width: 140
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea62c8656e9c9bab0800000000000000
+      internalID: -4991736720831797586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal5ThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1141
+        width: 132
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938355beb2a9ab6c0800000000000000
+      internalID: -4126816595109136327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal6ThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1056
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35c1916989044ea70800000000000000
+      internalID: 8855273791414672467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal7ThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1051
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb56bbe8c5dda050800000000000000
+      internalID: 5813537752929950697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal8ThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1056
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bca067bb9cd56840800000000000000
+      internalID: 5216818304733195445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1889
+        width: 34
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e450dc51e477db30800000000000000
+      internalID: 4312043679504159974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorpedoThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1550
+        width: 90
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aac0dd237a56fd40800000000000000
+      internalID: 5617777035927669408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseHeavyThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1534
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2307ebbe4db66d0800000000000000
+      internalID: -2996067018107505929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseMediumThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1696
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbe5199c54746530800000000000000
+      internalID: 3847327922735410112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseSmallThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1801
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489cdf45fb40b7d70800000000000000
+      internalID: 9041825896687585668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeaponThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1532
+        width: 200
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5736266adcaa52460800000000000000
+      internalID: 7216361778167571317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon1ThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1817
+        width: 124
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d873a4b8d3bfd850800000000000000
+      internalID: 6404034938469054681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon2ThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1822
+        width: 152
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fe9c24f69cf3ce0800000000000000
+      internalID: -1423197477526704255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallWeaponThaalianGrey
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1889
+        width: 86
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b33088d64a821820800000000000000
+      internalID: 2887522347982533560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

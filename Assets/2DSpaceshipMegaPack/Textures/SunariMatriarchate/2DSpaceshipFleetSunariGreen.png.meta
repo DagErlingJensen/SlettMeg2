@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: b3c249028de6ef749ae062d818fe3f30
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7176730480276197264
+    second: CarrierSunariGreen
+  - first:
+      213: -5371344083279450289
+    second: BattleshipSunariGreen
+  - first:
+      213: 7431575830356015633
+    second: DestroyerSunariGreen
+  - first:
+      213: 272585254138402666
+    second: FrigateSunariGreen
+  - first:
+      213: -4426900434147609897
+    second: FighterSunariGreen
+  - first:
+      213: 3489495087389748177
+    second: BomberSunariGreen
+  - first:
+      213: 305227416949721844
+    second: CorvetteSunariGreen
+  - first:
+      213: 1359414893875911992
+    second: Engine1SunariGreen
+  - first:
+      213: 4334068959473650763
+    second: Engine2SunariGreen
+  - first:
+      213: 1719692382225652878
+    second: Engine3SunariGreen
+  - first:
+      213: -7931295298041016504
+    second: Engine4SunariGreen
+  - first:
+      213: 4766780177301934647
+    second: DamageDecal1SunariGreen
+  - first:
+      213: -6530177064113294050
+    second: DamageDecal2SunariGreen
+  - first:
+      213: 6924033485597957280
+    second: DamageDecal3SunariGreen
+  - first:
+      213: 4722149508720079060
+    second: DamageDecal4SunariGreen
+  - first:
+      213: 8230260915081676472
+    second: DamageDecal5SunariGreen
+  - first:
+      213: 8186606813012189866
+    second: DamageDecal6SunariGreen
+  - first:
+      213: -6696176706599598989
+    second: DamageDecal7SunariGreen
+  - first:
+      213: 8778182652142051471
+    second: DamageDecal8SunariGreen
+  - first:
+      213: 6270878163621752408
+    second: BaseHeavySunariGreen
+  - first:
+      213: 2843449702272691893
+    second: BaseMediumSunariGreen
+  - first:
+      213: 7610656561805180068
+    second: BaseSmallSunariGreen
+  - first:
+      213: 7781721027982034108
+    second: HeavyWeapon1SunariGreen
+  - first:
+      213: 3106630156447078124
+    second: HeavyWeapon2SunariGreen
+  - first:
+      213: 5684267672219725945
+    second: MediumWeapon1SunariGreen
+  - first:
+      213: -2316702920776055251
+    second: MediumWeapon2SunariGreen
+  - first:
+      213: 4285159968157847564
+    second: SmallWeaponSunariGreen
+  - first:
+      213: 4047547697377228944
+    second: MissileSunariGreen
+  - first:
+      213: 3101482640685839350
+    second: TorpedoSunariGreen
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CarrierSunariGreen
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 38
+        width: 629
+        height: 1140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fc49d095ed89360800000000000000
+      internalID: 7176730480276197264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleshipSunariGreen
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 24
+        width: 647
+        height: 1361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4f6bbdc3072575b0800000000000000
+      internalID: -5371344083279450289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyerSunariGreen
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 39
+        width: 457
+        height: 922
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11abfb1f7d2422760800000000000000
+      internalID: 7431575830356015633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrigateSunariGreen
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1096
+        width: 356
+        height: 573
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67ddeb28da68c300800000000000000
+      internalID: 272585254138402666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSunariGreen
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1776
+        width: 155
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2fb96828d7092c0800000000000000
+      internalID: -4426900434147609897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberSunariGreen
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1788
+        width: 181
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db26593b4d2d6030800000000000000
+      internalID: 3489495087389748177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorvetteSunariGreen
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 1692
+        width: 247
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa8ff2f7b26c3400800000000000000
+      internalID: 305227416949721844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine1SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1564
+        width: 338
+        height: 458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d59dbb4ac9dd210800000000000000
+      internalID: 1359414893875911992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine2SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 1716
+        width: 361
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4c497971c4b52c30800000000000000
+      internalID: 4334068959473650763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine3SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1407
+        width: 88
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c518d3c139dd710800000000000000
+      internalID: 1719692382225652878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine4SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 1492
+        width: 48
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f0a8fb2f06ee190800000000000000
+      internalID: -7931295298041016504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal1SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1475
+        width: 165
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7329476d051072240800000000000000
+      internalID: 4766780177301934647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal2SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1567
+        width: 159
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15bf1dfe862065a0800000000000000
+      internalID: -6530177064113294050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal3SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1441
+        width: 180
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0acd9f125cb171060800000000000000
+      internalID: 6924033485597957280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal4SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1347
+        width: 119
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0bb8b85f1788140800000000000000
+      internalID: 4722149508720079060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal5SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1342
+        width: 121
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6893c42b2c73270800000000000000
+      internalID: 8230260915081676472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal6SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1269
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2626d958bac9170800000000000000
+      internalID: 8186606813012189866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal7SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1260
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374c2e163c66213a0800000000000000
+      internalID: -6696176706599598989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal8SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1269
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f806c620d9e52d970800000000000000
+      internalID: 8778182652142051471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseHeavySunariGreen
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1938
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ead6c1772a60750800000000000000
+      internalID: 6270878163621752408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseMediumSunariGreen
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1846
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be67a06076f57720800000000000000
+      internalID: 2843449702272691893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseSmallSunariGreen
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1769
+        width: 56
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acb4e9e1db7e9960800000000000000
+      internalID: 7610656561805180068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeapon1SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1820
+        width: 52
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb48e0eab0a3efb60800000000000000
+      internalID: 7781721027982034108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeapon2SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1820
+        width: 96
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce65b8beaa7fc1b20800000000000000
+      internalID: 3106630156447078124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon1SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1695
+        width: 41
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970b4e2d45392ee40800000000000000
+      internalID: 5684267672219725945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon2SunariGreen
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1695
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26880dc7fa69dfd0800000000000000
+      internalID: -2316702920776055251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallWeaponSunariGreen
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1693
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00d5cb8942f77b30800000000000000
+      internalID: 4285159968157847564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileSunariGreen
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1943
+        width: 14
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098be999f27cb2830800000000000000
+      internalID: 4047547697377228944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorpedoSunariGreen
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1944
+        width: 24
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3be13870eaa0b20800000000000000
+      internalID: 3101482640685839350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

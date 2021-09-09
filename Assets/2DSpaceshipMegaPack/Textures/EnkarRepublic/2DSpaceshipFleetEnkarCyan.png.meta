@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: b7d0c818178d1e945a8c507a2fa4d1a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4932983345371086991
+    second: BattleshipEnkarCyan
+  - first:
+      213: 6633280419670785620
+    second: CarrierEnkarCyan
+  - first:
+      213: -4171888519967384463
+    second: DestroyerEnkarCyan
+  - first:
+      213: 5988719382611967327
+    second: FrigateEnkarCyan
+  - first:
+      213: -196200981833115474
+    second: CorvetteEnkarCyan
+  - first:
+      213: 7511729723443811264
+    second: FighterEnkarCyan
+  - first:
+      213: -2792397533358598198
+    second: BomberEnkarCyan
+  - first:
+      213: -7650224205296977309
+    second: Engine1EnkarCyan
+  - first:
+      213: -2543411102765566807
+    second: Engine2EnkarCyan
+  - first:
+      213: 3496236350328844085
+    second: Engine3EnkarCyan
+  - first:
+      213: 3284349906520679846
+    second: DamageDecal1EnkarCyan
+  - first:
+      213: 2679699074264074050
+    second: DamageDecal2EnkarCyan
+  - first:
+      213: 5728692146479811636
+    second: DamageDecal3EnkarCyan
+  - first:
+      213: -3078254901219154543
+    second: DamageDecal4EnkarCyan
+  - first:
+      213: -3684173475855537323
+    second: DamageDecal5EnkarCyan
+  - first:
+      213: -2025597853745337074
+    second: DamageDecal6EnkarCyan
+  - first:
+      213: -8907239717339495882
+    second: DamageDecal7EnkarCyan
+  - first:
+      213: -1086833724760603137
+    second: DamageDecal8EnkarCyan
+  - first:
+      213: -6858114959182647932
+    second: MissileEnkarCyan
+  - first:
+      213: -1894306466898465228
+    second: TorpedoEnkarCyan
+  - first:
+      213: -1730829852101121515
+    second: BaseHeavyEnkarCyan
+  - first:
+      213: -4880051911900112839
+    second: BaseMediumEnkarCyan
+  - first:
+      213: 5635324932370473661
+    second: BaseSmallEnkarCyan
+  - first:
+      213: -770505881427174793
+    second: HeavyWeaponEnkarCyan
+  - first:
+      213: 2362884982823441447
+    second: MediumWeapon1EnkarCyan
+  - first:
+      213: 6626526349131854202
+    second: MediumWeapon2EnkarCyan
+  - first:
+      213: 5217559626016886235
+    second: SmallWeaponEnkarCyan
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BattleshipEnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 16
+        width: 393
+        height: 1997
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ffc3098c58a8bb0800000000000000
+      internalID: -4932983345371086991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierEnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 22
+        width: 546
+        height: 1483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ef706a5652e0c50800000000000000
+      internalID: 6633280419670785620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyerEnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 23
+        width: 247
+        height: 1287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c50d4ae797a16c0800000000000000
+      internalID: -4171888519967384463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrigateEnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 26
+        width: 298
+        height: 982
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d35148c843c1350800000000000000
+      internalID: 5988719382611967327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorvetteEnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 18
+        width: 260
+        height: 663
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea8114d1f34f64df0800000000000000
+      internalID: -196200981833115474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterEnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 720
+        width: 289
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c39c9672660f3860800000000000000
+      internalID: 7511729723443811264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberEnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1092
+        width: 350
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7db78fc396f39d0800000000000000
+      internalID: -2792397533358598198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine1EnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 1851
+        width: 49
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36abd2f2e91f4d590800000000000000
+      internalID: -7650224205296977309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine2EnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1594
+        width: 172
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4bfddd31df3bcd0800000000000000
+      internalID: -2543411102765566807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine3EnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1660
+        width: 220
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fa820df60258030800000000000000
+      internalID: 3496236350328844085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal1EnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1848
+        width: 182
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5a048b6da549d20800000000000000
+      internalID: 3284349906520679846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal2EnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1957
+        width: 186
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24704724c14303520800000000000000
+      internalID: 2679699074264074050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal3EnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1808
+        width: 207
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ccf72c727608f40800000000000000
+      internalID: 5728692146479811636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal4EnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 1680
+        width: 133
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1952ab40a77d745d0800000000000000
+      internalID: -3078254901219154543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal5EnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1669
+        width: 134
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55be6b84ebf2fdcc0800000000000000
+      internalID: -3684173475855537323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal6EnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1584
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0d27bdeb71a3e3e0800000000000000
+      internalID: -2025597853745337074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal7EnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1581
+        width: 67
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6328abe6ba0236480800000000000000
+      internalID: -8907239717339495882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal8EnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1584
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5cab15c7acae0f0800000000000000
+      internalID: -1086833724760603137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileEnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1697
+        width: 47
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d202dc7c413d0a0800000000000000
+      internalID: -6858114959182647932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorpedoEnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1697
+        width: 61
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43eaac80e4216b5e0800000000000000
+      internalID: -1894306466898465228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseHeavyEnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1492
+        width: 170
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51aeeda7b6bdaf7e0800000000000000
+      internalID: -1730829852101121515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseMediumEnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1754
+        width: 105
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9385ab944a2964cb0800000000000000
+      internalID: -4880051911900112839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseSmallEnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1955
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db228d33b22b43e40800000000000000
+      internalID: 5635324932370473661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeaponEnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1696
+        width: 241
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a1f20bbfc9e45f0800000000000000
+      internalID: -770505881427174793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon1EnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1485
+        width: 141
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724db4e6f57aac020800000000000000
+      internalID: 2362884982823441447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon2EnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1485
+        width: 92
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7135ce0b9626fb50800000000000000
+      internalID: 6626526349131854202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallWeaponEnkarCyan
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1881
+        width: 114
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd082706de786840800000000000000
+      internalID: 5217559626016886235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

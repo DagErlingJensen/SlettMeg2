@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: f6758e238effa4a46943aea193db76fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7284275399863801824
+    second: CarrierArashPurple
+  - first:
+      213: 4512134029099965244
+    second: BattleshipArashPurple
+  - first:
+      213: 5210922446206831620
+    second: FrigateArashPurple
+  - first:
+      213: 5265892551599304927
+    second: CorvetteArashPurple
+  - first:
+      213: 1430073366244151772
+    second: BomberArashPurple
+  - first:
+      213: -6516428378464286336
+    second: FighterArashPurple
+  - first:
+      213: -2395106098533532908
+    second: DestroyerArashPurple
+  - first:
+      213: 2453931558274791842
+    second: Engine1ArashPurple
+  - first:
+      213: 2452429099429995677
+    second: Engine4ArashPurple
+  - first:
+      213: -5592427667888095659
+    second: Engine2ArashPurple
+  - first:
+      213: 1878330182941714014
+    second: Engine3ArashPurple
+  - first:
+      213: 4574377131594903444
+    second: DamageDecal1ArashPurple
+  - first:
+      213: -7667203677574806364
+    second: DamageDecal2ArashPurple
+  - first:
+      213: -5297870638006758696
+    second: DamageDecal3ArashPurple
+  - first:
+      213: 413793789808343275
+    second: DamageDecal4ArashPurple
+  - first:
+      213: -3407100319602308486
+    second: DamageDecal5ArashPurple
+  - first:
+      213: 6098675058193179076
+    second: DamageDecal6ArashPurple
+  - first:
+      213: 6424249936774156018
+    second: DamageDecal7ArashPurple
+  - first:
+      213: -4629392803761050291
+    second: DamageDecal8ArashPurple
+  - first:
+      213: -5119145584269297648
+    second: BaseHeavyArashPurple
+  - first:
+      213: -2030171294831951894
+    second: BaseMediumArashPurple
+  - first:
+      213: -1462017048877706375
+    second: BaseSmallArashPurple
+  - first:
+      213: -6452864820526198603
+    second: MissileArashPurple
+  - first:
+      213: -1945522602248263580
+    second: TorpedoArashPurple
+  - first:
+      213: 593276678777218656
+    second: HeavyWeapon1ArashPurple
+  - first:
+      213: -6679974503881950827
+    second: HeavyWeapon2ArashPurple
+  - first:
+      213: -5409259238866848331
+    second: SmallWeaponArashPurple
+  - first:
+      213: 6816435758956189174
+    second: MediumWeapon2ArashPurple
+  - first:
+      213: -3876753868523534081
+    second: MediumWeapon1ArashPurple
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CarrierArashPurple
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 12
+        width: 1076
+        height: 1103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e79ff6e1e1f61560800000000000000
+      internalID: 7284275399863801824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleshipArashPurple
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 30
+        width: 627
+        height: 1495
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b947f3ef15e9e30800000000000000
+      internalID: 4512134029099965244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrigateArashPurple
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 26
+        width: 233
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c844e2b5ae05840800000000000000
+      internalID: 5210922446206831620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorvetteArashPurple
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 766
+        width: 132
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0b3733065341940800000000000000
+      internalID: 5265892551599304927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberArashPurple
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1826
+        width: 175
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1dab55624a8d310800000000000000
+      internalID: 1430073366244151772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterArashPurple
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1797
+        width: 182
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0898c515aeef095a0800000000000000
+      internalID: -6516428378464286336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyerArashPurple
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1148
+        width: 432
+        height: 888
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41b798571bfd2ced0800000000000000
+      internalID: -2395106098533532908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine1ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 1585
+        width: 357
+        height: 463
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9f61230cd1e0220800000000000000
+      internalID: 2453931558274791842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine4ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 1636
+        y: 1592
+        width: 74
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d942b5cb547c80220800000000000000
+      internalID: 2452429099429995677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine2ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 1473
+        width: 296
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55eb67f7aa4b362b0800000000000000
+      internalID: -5592427667888095659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine3ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1192
+        width: 150
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56a22d795b211a10800000000000000
+      internalID: 1878330182941714014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal1ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1849
+        width: 182
+        height: 183
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f626dd3c37b7f30800000000000000
+      internalID: 4574377131594903444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal2ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1957
+        width: 179
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4c599b0ee989590800000000000000
+      internalID: -7667203677574806364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal3ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1806
+        width: 205
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d292ab59be2a76b0800000000000000
+      internalID: -5297870638006758696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal4ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1680
+        width: 137
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8f9cb62471eb500800000000000000
+      internalID: 413793789808343275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal5ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1669
+        width: 136
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a0cf79f4c87b0d0800000000000000
+      internalID: -3407100319602308486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal6ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1584
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1a32c37a8d2a450800000000000000
+      internalID: 6098675058193179076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal7ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1579
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fecfb5c745872950800000000000000
+      internalID: 6424249936774156018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal8ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1584
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4da216c5c711cfb0800000000000000
+      internalID: -4629392803761050291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseHeavyArashPurple
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1507
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0187e18a63425f8b0800000000000000
+      internalID: -5119145584269297648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseMediumArashPurple
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1385
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefb852b6f163d3e0800000000000000
+      internalID: -2030171294831951894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseSmallArashPurple
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1290
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973541a7d3fd5bbe0800000000000000
+      internalID: -1462017048877706375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileArashPurple
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 1532
+        width: 13
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0dbec62a1d276a0800000000000000
+      internalID: -6452864820526198603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorpedoArashPurple
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1532
+        width: 22
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 468af76408d1005e0800000000000000
+      internalID: -1945522602248263580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeapon1ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1732
+        width: 60
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0662a0cfefdbb3800800000000000000
+      internalID: 593276678777218656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeapon2ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1793
+        width: 110
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599337ba496fb43a0800000000000000
+      internalID: -6679974503881950827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallWeaponArashPurple
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1648
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b57759b1637ee4b0800000000000000
+      internalID: -5409259238866848331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon2ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1664
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f59ade2538d89e50800000000000000
+      internalID: 6816435758956189174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon1ArashPurple
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1664
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8880185e0033ac0800000000000000
+      internalID: -3876753868523534081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 3782f9746f3447d439a8873d335a781e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8066719007297786363
+    second: 2DBattleshipHumanGreen
+  - first:
+      213: 8781676284331613899
+    second: 2DDestroyerHumanGreen
+  - first:
+      213: 3917604929347731844
+    second: 2DFrigateHumanGreen
+  - first:
+      213: -3327437764660734905
+    second: 2DCarrierHumanGreen
+  - first:
+      213: 1051181417142002952
+    second: 2DCorvetteHumanGreen
+  - first:
+      213: 3747938209956479702
+    second: 2DBomberHumanGreen
+  - first:
+      213: -1718353854684329974
+    second: 2DFighterHumanGreen
+  - first:
+      213: -4169791878136588478
+    second: 2DMissileHumanGreen
+  - first:
+      213: -7109125669469362328
+    second: 2DTorpedoHumanGreen
+  - first:
+      213: 6667409571041818656
+    second: DamageDecal1Green
+  - first:
+      213: -1815351365461677608
+    second: DamageDecal2Green
+  - first:
+      213: -4776211584554956777
+    second: DamageDecal3Green
+  - first:
+      213: -4999188047841393509
+    second: DamageDecal4Green
+  - first:
+      213: 7531930431773949305
+    second: DamageDecal5Green
+  - first:
+      213: -4734879686953469265
+    second: DamageDecal6Green
+  - first:
+      213: -9163000386167129351
+    second: DamageDecal7Green
+  - first:
+      213: -5171095290764279443
+    second: DamageDecal8Green
+  - first:
+      213: -8315428878804982985
+    second: 2DEngine1HumanGreen
+  - first:
+      213: -3984487894447703776
+    second: 2DEngine2HumanGreen
+  - first:
+      213: -6677436062190390362
+    second: 2DEngine3HumanGreen
+  - first:
+      213: 3157748520242688152
+    second: 2DEngine4HumanGreen
+  - first:
+      213: -5831413094130491022
+    second: 2DWeaponBaseLargeHumanGreen
+  - first:
+      213: -6187202394942431934
+    second: 2DWeaponBaseMediumHumanGreen
+  - first:
+      213: -4524587408479812108
+    second: 2DWeaponBaseSmallHumanGreen
+  - first:
+      213: 2666169410141951104
+    second: 2DSmallWeaponHumanGreen
+  - first:
+      213: -8265232197885254007
+    second: 2DMediumWeapon1HumanGreen
+  - first:
+      213: -4531823964645942451
+    second: 2DMediumWeapon2HumanGreen
+  - first:
+      213: -5884080736265933488
+    second: 2DHeavyWeapon1HumanGreen
+  - first:
+      213: 624573661636480694
+    second: 2DHeavyWeapon2HumanGreen
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2DBattleshipHumanGreen
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 40
+        width: 568
+        height: 1390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50eaf1b5dc14d0090800000000000000
+      internalID: -8066719007297786363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DDestroyerHumanGreen
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 24
+        width: 314
+        height: 956
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcede04ad08ced970800000000000000
+      internalID: 8781676284331613899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DFrigateHumanGreen
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1080
+        width: 315
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48147184de02e5630800000000000000
+      internalID: 3917604929347731844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DCarrierHumanGreen
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 40
+        width: 815
+        height: 1168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7445d298bf092d1d0800000000000000
+      internalID: -3327437764660734905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DCorvetteHumanGreen
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1636
+        width: 260
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 805ad33fdeb869e00800000000000000
+      internalID: 1051181417142002952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DBomberHumanGreen
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1787
+        width: 104
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2c19cc1f9530430800000000000000
+      internalID: 3747938209956479702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DFighterHumanGreen
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1767
+        width: 142
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a080e1df54e2728e0800000000000000
+      internalID: -1718353854684329974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DMissileHumanGreen
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1488
+        width: 8
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2471c5c116ce126c0800000000000000
+      internalID: -4169791878136588478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DTorpedoHumanGreen
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1484
+        width: 18
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 867eaaf8edf475d90800000000000000
+      internalID: -7109125669469362328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal1Green
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1435
+        width: 186
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028bcfdeda5678c50800000000000000
+      internalID: 6667409571041818656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal2Green
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1467
+        width: 188
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9e22f1d839ec6e0800000000000000
+      internalID: -1815351365461677608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal3Green
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1450
+        width: 216
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7180f7a8edc77bdb0800000000000000
+      internalID: -4776211584554956777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal4Green
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1302
+        width: 128
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b94090315f05f9ab0800000000000000
+      internalID: -4999188047841393509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal5Green
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1302
+        width: 136
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d37d262dac68860800000000000000
+      internalID: 7531930431773949305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal6Green
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1328
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faafcecd2045a4eb0800000000000000
+      internalID: -4734879686953469265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal7Green
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1325
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fabdb942bb76d080800000000000000
+      internalID: -9163000386167129351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal8Green
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1320
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61cc4e0b349c38b0800000000000000
+      internalID: -5171095290764279443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DEngine1HumanGreen
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1599
+        width: 314
+        height: 438
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733edc3ed79a99c80800000000000000
+      internalID: -8315428878804982985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DEngine2HumanGreen
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 1676
+        width: 325
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029b997ee5144b8c0800000000000000
+      internalID: -3984487894447703776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DEngine3HumanGreen
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1419
+        width: 114
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a332cea74bf453a0800000000000000
+      internalID: -6677436062190390362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DEngine4HumanGreen
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1438
+        width: 46
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890b4177c8392db20800000000000000
+      internalID: 3157748520242688152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DWeaponBaseLargeHumanGreen
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1864
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2716ac1efa8a21fa0800000000000000
+      internalID: -5831413094130491022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DWeaponBaseMediumHumanGreen
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1757
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d9208f334a22aa0800000000000000
+      internalID: -6187202394942431934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DWeaponBaseSmallHumanGreen
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1693
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f50b5a69bf6531c0800000000000000
+      internalID: -4524587408479812108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSmallWeaponHumanGreen
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1693
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084168ad3f2200520800000000000000
+      internalID: 2666169410141951104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DMediumWeapon1HumanGreen
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1756
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986adea6b1ffb4d80800000000000000
+      internalID: -8265232197885254007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DMediumWeapon2HumanGreen
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1757
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b1da26d1abb11c0800000000000000
+      internalID: -4531823964645942451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DHeavyWeapon1HumanGreen
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1862
+        width: 77
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d662ddebb875ea0800000000000000
+      internalID: -5884080736265933488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DHeavyWeapon2HumanGreen
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1848
+        width: 69
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be48e5af6eeaa800800000000000000
+      internalID: 624573661636480694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

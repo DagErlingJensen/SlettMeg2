@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 89b84c95f2de54d48a7499a10927417a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6385146799941244356
+    second: BattleshipThaalianBrown
+  - first:
+      213: -2186952972220555779
+    second: CarrierThaalianBrown
+  - first:
+      213: -7933608489013376653
+    second: DestroyerThaalianBrown
+  - first:
+      213: 1898588347333891960
+    second: FrigateThaalianBrown
+  - first:
+      213: -8401593026223405514
+    second: CorvetteThaalianBrown
+  - first:
+      213: 1034892736078219551
+    second: FighterThaalianBrown
+  - first:
+      213: 409054131202202009
+    second: BomberThaalianBrown
+  - first:
+      213: -3079095505579056366
+    second: Engine1ThaalianBrown
+  - first:
+      213: 7527801434315503970
+    second: Engine2ThaalianBrown
+  - first:
+      213: 6322816359065774391
+    second: Engine3ThaalianBrown
+  - first:
+      213: -6594339478210344117
+    second: Engine4ThaalianBrown
+  - first:
+      213: -6841811038984221490
+    second: Engine5ThaalianBrown
+  - first:
+      213: -7638406776167551210
+    second: DamageDecal1ThaalianBrown
+  - first:
+      213: 2155859450822124847
+    second: DamageDecal2ThaalianBrown
+  - first:
+      213: -4332495256837967544
+    second: DamageDecal3ThaalianBrown
+  - first:
+      213: -78397517572187839
+    second: DamageDecal4ThaalianBrown
+  - first:
+      213: -4105322569747125407
+    second: DamageDecal5ThaalianBrown
+  - first:
+      213: -7088957396662890737
+    second: DamageDecal6ThaalianBrown
+  - first:
+      213: 5310918392872555982
+    second: DamageDecal7ThaalianBrown
+  - first:
+      213: 5599756910400748418
+    second: DamageDecal8ThaalianBrown
+  - first:
+      213: 2489118635246002097
+    second: MissileThaalianBrown
+  - first:
+      213: 6077712022974309657
+    second: TorpedoThaalianBrown
+  - first:
+      213: 7995463581832806970
+    second: BaseHeavyThaalianBrown
+  - first:
+      213: -6802659720032051120
+    second: BaseMediumThaalianBrown
+  - first:
+      213: 1265006573259884793
+    second: BaseSmallThaalianBrown
+  - first:
+      213: -8584520566995089947
+    second: HeavyWeaponThaalianBrown
+  - first:
+      213: 3704175080919259134
+    second: MediumWeapon1ThaalianBrown
+  - first:
+      213: 7836296527709604317
+    second: MediumWeapon2ThaalianBrown
+  - first:
+      213: -7123013213185405956
+    second: SmallWeaponThaalianBrown
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BattleshipThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 58
+        width: 533
+        height: 1914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c558314f299c9850800000000000000
+      internalID: 6385146799941244356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 64
+        width: 538
+        height: 1724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfd1f46dbd166a1e0800000000000000
+      internalID: -2186952972220555779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyerThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 28
+        width: 412
+        height: 1124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37985510d1926e190800000000000000
+      internalID: -7933608489013376653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrigateThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 29
+        width: 343
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8775881fa04295a10800000000000000
+      internalID: 1898588347333891960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorvetteThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 630
+        width: 141
+        height: 404
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6360e8cf7ab876b80800000000000000
+      internalID: -8401593026223405514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1759
+        width: 187
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f19039ad57dac5e00800000000000000
+      internalID: 1034892736078219551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1428
+        width: 202
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9999638a0904da500800000000000000
+      internalID: 409054131202202009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine1ThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1941
+        width: 39
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213657093fad445d0800000000000000
+      internalID: -3079095505579056366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine2ThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1755
+        width: 81
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2693d00458f187860800000000000000
+      internalID: 7527801434315503970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine3ThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1837
+        width: 88
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739e4269af72fb750800000000000000
+      internalID: 6322816359065774391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine4ThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 1812
+        width: 139
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b00f0de233c74a0800000000000000
+      internalID: -6594339478210344117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine5ThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1795
+        width: 104
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecccff80c110d01a0800000000000000
+      internalID: -6841811038984221490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal1ThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1317
+        width: 182
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61fa890d18deef590800000000000000
+      internalID: -7638406776167551210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal2ThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1429
+        width: 183
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25ebef8fb62bed10800000000000000
+      internalID: 2155859450822124847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal3ThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1278
+        width: 211
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841bb19b482efd3c0800000000000000
+      internalID: -4332495256837967544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal4ThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1152
+        width: 139
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14956d58fd979eef0800000000000000
+      internalID: -78397517572187839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal5ThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1141
+        width: 144
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b24ddafd6f607c0800000000000000
+      internalID: -4105322569747125407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal6ThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1056
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fc7008ec6fe9d90800000000000000
+      internalID: -7088957396662890737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal7ThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1051
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5d14ec32c24b940800000000000000
+      internalID: 5310918392872555982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal8ThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1056
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28bb9f0cd3556bd40800000000000000
+      internalID: 5599756910400748418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1889
+        width: 34
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf94a9f5302b8220800000000000000
+      internalID: 2489118635246002097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorpedoThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1550
+        width: 90
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915218042ee585450800000000000000
+      internalID: 6077712022974309657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseHeavyThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1534
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3287b114c795fe60800000000000000
+      internalID: 7995463581832806970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseMediumThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1696
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 050a1a3d6091891a0800000000000000
+      internalID: -6802659720032051120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseSmallThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1801
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f880bda6c43e8110800000000000000
+      internalID: 1265006573259884793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeaponThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1532
+        width: 200
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5093de608add880800000000000000
+      internalID: -8584520566995089947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon1ThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1817
+        width: 124
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7db0c4c9fd76330800000000000000
+      internalID: 3704175080919259134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon2ThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1822
+        width: 152
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd902c86c2e10cc60800000000000000
+      internalID: 7836296527709604317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallWeaponThaalianBrown
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1889
+        width: 86
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb8ba1d839f52d90800000000000000
+      internalID: -7123013213185405956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

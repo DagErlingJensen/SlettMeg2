@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 531130ccfcb40044aad390afbbceb100
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4333425779316187380
+    second: BattleshipVyrkulPurple
+  - first:
+      213: -5879760037881825876
+    second: CarrierVyrkulPurple
+  - first:
+      213: -6910442855612396168
+    second: DestroyerVyrkulPurple
+  - first:
+      213: -3238273575329418153
+    second: FrigateVyrkulPurple
+  - first:
+      213: -3330687209655458374
+    second: CorvetteVyrkulPurple
+  - first:
+      213: -5745123774616607567
+    second: FighterVyrkulPurple
+  - first:
+      213: -7076749981322478758
+    second: BomberVyrkulPurple
+  - first:
+      213: 2595321998977997077
+    second: Engine1VyrkulPurple
+  - first:
+      213: -3151278436686533750
+    second: Engine2VyrkulPurple
+  - first:
+      213: -8508365356759583995
+    second: Engine3VyrkulPurple
+  - first:
+      213: 7057451640400601936
+    second: DamageDecal1VyrkulPurple
+  - first:
+      213: -322920269090544371
+    second: DamageDecal2VyrkulPurple
+  - first:
+      213: 7194147561091306675
+    second: DamageDecal3VyrkulPurple
+  - first:
+      213: -2405634383413267915
+    second: DamageDecal4VyrkulPurple
+  - first:
+      213: -8907691914462817028
+    second: DamageDecal5VyrkulPurple
+  - first:
+      213: -8715486173791797200
+    second: DamageDecal6VyrkulPurple
+  - first:
+      213: -8040550278682929467
+    second: DamageDecal7VyrkulPurple
+  - first:
+      213: -640863527762453824
+    second: DamageDecal8VyrkulPurple
+  - first:
+      213: 3309448971235399425
+    second: MissileVyrkulPurple
+  - first:
+      213: -4660412108663375654
+    second: TorpedoVyrkulPurple
+  - first:
+      213: 317282018558086812
+    second: BaseHeavyVyrkulPurple
+  - first:
+      213: -4824072724977323581
+    second: BaseMediumVyrkulPurple
+  - first:
+      213: -6520323124922817195
+    second: BaseSmallVyrkulPurple
+  - first:
+      213: -3114469888050633820
+    second: HeavWeaponVyrkulPurple
+  - first:
+      213: -1502444680745113350
+    second: MediumWeapon1VyrkulPurple
+  - first:
+      213: 8744842756001884871
+    second: MediumWeapon2VyrkulPurple
+  - first:
+      213: -5106646808035689206
+    second: SmallWeaponVyrkulPurple
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BattleshipVyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 12
+        width: 704
+        height: 1721
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f069ac69cb632c30800000000000000
+      internalID: 4333425779316187380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierVyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 14
+        width: 550
+        height: 1410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca53489d565e66ea0800000000000000
+      internalID: -5879760037881825876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyerVyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 15
+        width: 483
+        height: 981
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87d469ef5dc2910a0800000000000000
+      internalID: -6910442855612396168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrigateVyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1522
+        width: 176
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754b4f027575f03d0800000000000000
+      internalID: -3238273575329418153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorvetteVyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1080
+        width: 180
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5ac8a21a507c1d0800000000000000
+      internalID: -3330687209655458374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterVyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 137
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4635fad583540b0800000000000000
+      internalID: -5745123774616607567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberVyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1220
+        width: 219
+        height: 199
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5b750fd2655acd90800000000000000
+      internalID: -7076749981322478758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine1VyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 1890
+        width: 52
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51917d28b9f640420800000000000000
+      internalID: 2595321998977997077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine2VyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 1844
+        width: 101
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b63f045f86444d0800000000000000
+      internalID: -3151278436686533750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine3VyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1767
+        width: 152
+        height: 273
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503fa1b89c63ce980800000000000000
+      internalID: -8508365356759583995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal1VyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1839
+        width: 182
+        height: 202
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053639dffda11f160800000000000000
+      internalID: 7057451640400601936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal2VyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 1958
+        width: 184
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d05a516e9b1c48bf0800000000000000
+      internalID: -322920269090544371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal3VyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1805
+        width: 205
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b41790371fb6d360800000000000000
+      internalID: 7194147561091306675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal4VyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1681
+        width: 141
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532bf2d16487d9ed0800000000000000
+      internalID: -2405634383413267915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal5VyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1670
+        width: 144
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf413d51665816480800000000000000
+      internalID: -8907691914462817028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal6VyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1584
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030cf46608f5c0780800000000000000
+      internalID: -8715486173791797200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal7VyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1580
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c69f684f1a3a6090800000000000000
+      internalID: -8040550278682929467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal8VyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1585
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ca173654023b17f0800000000000000
+      internalID: -640863527762453824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileVyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1687
+        width: 54
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10794cc1e468ded20800000000000000
+      internalID: 3309448971235399425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorpedoVyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1605
+        width: 57
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8b03c01e3e25fb0800000000000000
+      internalID: -4660412108663375654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseHeavyVyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1857
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e06c99056376400800000000000000
+      internalID: 317282018558086812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseMediumVyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1926
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c173196a637d0db0800000000000000
+      internalID: -4824072724977323581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseSmallVyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1969
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555e53ef9a82385a0800000000000000
+      internalID: -6520323124922817195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavWeaponVyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1449
+        width: 241
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a36713532e27c4d0800000000000000
+      internalID: -3114469888050633820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon1VyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1449
+        width: 220
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8238de58e362be0800000000000000
+      internalID: -1502444680745113350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon2VyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1791
+        width: 152
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cae328872ceb5970800000000000000
+      internalID: 8744842756001884871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallWeaponVyrkulPurple
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1446
+        width: 113
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0d76a5c8cb8129b0800000000000000
+      internalID: -5106646808035689206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

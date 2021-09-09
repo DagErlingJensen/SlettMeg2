@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 43ca546d1cc739f44a52c825086052b4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2520628543763800488
+    second: BattleshipThaalianBlue
+  - first:
+      213: -3433888617635492860
+    second: CarrierThaalianBlue
+  - first:
+      213: -2673025336868929435
+    second: DestroyerThaalianBlue
+  - first:
+      213: -6222005857982969061
+    second: FrigateThaalianBlue
+  - first:
+      213: 8062114111900948831
+    second: CorvetteThaalianBlue
+  - first:
+      213: 3308303746138009005
+    second: FighterThaalianBlue
+  - first:
+      213: 3371828474709508382
+    second: BomberThaalianBlue
+  - first:
+      213: -5075955573499590516
+    second: Engine1ThaalianBlue
+  - first:
+      213: -4019714493825677057
+    second: Engine2ThaalianBlue
+  - first:
+      213: -475416536474835977
+    second: Engine3ThaalianBlue
+  - first:
+      213: -4795508165777691279
+    second: Engine4ThaalianBlue
+  - first:
+      213: -9124134586316213691
+    second: Engine5ThaalianBlue
+  - first:
+      213: 758693616228558825
+    second: DamageDecal1ThaalianBlue
+  - first:
+      213: -4196416740239822946
+    second: DamageDecal2ThaalianBlue
+  - first:
+      213: -2568852623195971691
+    second: DamageDecal3ThaalianBlue
+  - first:
+      213: -6183458411987054486
+    second: DamageDecal4ThaalianBlue
+  - first:
+      213: 6582252114792501852
+    second: DamageDecal5ThaalianBlue
+  - first:
+      213: -4036245722426114925
+    second: DamageDecal6ThaalianBlue
+  - first:
+      213: 7691233423682179982
+    second: DamageDecal7ThaalianBlue
+  - first:
+      213: -9187241195258876334
+    second: DamageDecal8ThaalianBlue
+  - first:
+      213: -8746531242054714169
+    second: MissileThaalianBlue
+  - first:
+      213: 7364587248880539726
+    second: TorpedoThaalianBlue
+  - first:
+      213: -3621260579372385291
+    second: BaseHeavyThaalianBlue
+  - first:
+      213: -8617724333710090945
+    second: BaseMediumThaalianBlue
+  - first:
+      213: 939045267810992986
+    second: BaseSmallThaalianBlue
+  - first:
+      213: 3523907288018529859
+    second: HeavyWeaponThaalianBlue
+  - first:
+      213: 8111163513419205323
+    second: MediumWeapon1ThaalianBlue
+  - first:
+      213: -5396638984833476642
+    second: MediumWeapon2ThaalianBlue
+  - first:
+      213: -4633374720099218388
+    second: SmallWeaponThaalianBlue
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BattleshipThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 58
+        width: 533
+        height: 1914
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e9f3eb1bde40dd0800000000000000
+      internalID: -2520628543763800488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 64
+        width: 537
+        height: 1724
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c449bee706850d0800000000000000
+      internalID: -3433888617635492860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyerThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 28
+        width: 411
+        height: 1124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5600f405e9187ead0800000000000000
+      internalID: -2673025336868929435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrigateThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 29
+        width: 343
+        height: 558
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b868443aef6a9a0800000000000000
+      internalID: -6222005857982969061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorvetteThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 630
+        width: 144
+        height: 406
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f591582e11262ef60800000000000000
+      internalID: 8062114111900948831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 1756
+        width: 187
+        height: 257
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad66ad9ab479ed20800000000000000
+      internalID: 3308303746138009005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1429
+        width: 202
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e118b9e02242bce20800000000000000
+      internalID: 3371828474709508382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine1ThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1945
+        width: 39
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8884e9ac459e89b0800000000000000
+      internalID: -5075955573499590516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine2ThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1755
+        width: 81
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8080917fa1738c0800000000000000
+      internalID: -4019714493825677057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine3ThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1837
+        width: 88
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3221fcd2bf669f0800000000000000
+      internalID: -475416536474835977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine4ThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1812
+        width: 143
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17de55d1bbee27db0800000000000000
+      internalID: -4795508165777691279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine5ThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 1795
+        width: 104
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54234cb7fef806180800000000000000
+      internalID: -9124134586316213691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal1ThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1323
+        width: 182
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e7e8a003db678a00800000000000000
+      internalID: 758693616228558825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal2ThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1429
+        width: 187
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9fa084553553c5c0800000000000000
+      internalID: -4196416740239822946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal3ThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1279
+        width: 207
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fd21a462a995cd0800000000000000
+      internalID: -2568852623195971691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal4ThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1152
+        width: 129
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a605c1ee551ff2aa0800000000000000
+      internalID: -6183458411987054486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal5ThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1141
+        width: 143
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5255449c6bd85b50800000000000000
+      internalID: 6582252114792501852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal6ThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1056
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cf99086ef5cf7c0800000000000000
+      internalID: -4036245722426114925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal7ThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1051
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8310378c00ccba60800000000000000
+      internalID: 7691233423682179982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal8ThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1056
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e62ca1fcc508080800000000000000
+      internalID: -9187241195258876334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1889
+        width: 34
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccf87c2d241e9680800000000000000
+      internalID: -8746531242054714169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorpedoThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1550
+        width: 90
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4855e66515443660800000000000000
+      internalID: 7364587248880539726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseHeavyThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 1534
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb326770b2bebdc0800000000000000
+      internalID: -3621260579372385291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseMediumThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1696
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d58fc8061b76880800000000000000
+      internalID: -8617724333710090945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseSmallThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1801
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53c2ef12b8280d00800000000000000
+      internalID: 939045267810992986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeaponThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1532
+        width: 200
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34e21cb020f67e030800000000000000
+      internalID: 3523907288018529859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon1ThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1817
+        width: 124
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca067c9d34a09070800000000000000
+      internalID: 8111163513419205323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon2ThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1822
+        width: 152
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7d9f79f694b15b0800000000000000
+      internalID: -5396638984833476642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallWeaponThaalianBlue
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1889
+        width: 86
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c0631ad32f2bfb0800000000000000
+      internalID: -4633374720099218388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

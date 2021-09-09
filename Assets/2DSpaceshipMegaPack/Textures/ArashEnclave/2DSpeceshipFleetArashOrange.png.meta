@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 9ac1f2eedfa2aa74daf9da1ebfd7a656
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -777259815964920892
+    second: CarrierArashOrange
+  - first:
+      213: 937529422913759120
+    second: BattleshipArashOrange
+  - first:
+      213: 3295498063616915559
+    second: FrigateArashOrange
+  - first:
+      213: 3897478773804501379
+    second: CorvetteArashOrange
+  - first:
+      213: 2248455024656064470
+    second: DestroyerArashOrange
+  - first:
+      213: -2654363699994741539
+    second: BomberArashOrange
+  - first:
+      213: 6191966923815528513
+    second: FighterArashOrange
+  - first:
+      213: 8588205494854945621
+    second: Engine1ArashOrange
+  - first:
+      213: -5583845375582448477
+    second: Engine2ArashOrange
+  - first:
+      213: -2623866048657414135
+    second: Engine3ArashOrange
+  - first:
+      213: 7754112093726190536
+    second: Engine4ArashOrange
+  - first:
+      213: 668387426544490568
+    second: MissileArashOrange
+  - first:
+      213: -2231156304471208805
+    second: TorpedoArashOrange
+  - first:
+      213: -133886483717699950
+    second: Damage1ArashOrange
+  - first:
+      213: 6526500092285418887
+    second: Damage2ArashOrange
+  - first:
+      213: -3842575908004336862
+    second: Damage3ArashOrange
+  - first:
+      213: 3003771215725593468
+    second: Damage4ArashOrange
+  - first:
+      213: -2534966432512488797
+    second: Damage5ArashOrange
+  - first:
+      213: -2348950569357640884
+    second: Damage6ArashOrange
+  - first:
+      213: -3204343158753499251
+    second: Damage7ArashOrange
+  - first:
+      213: -5890981029883932869
+    second: Damage8ArashOrange
+  - first:
+      213: 2815617184505450284
+    second: BaseHeavyArashOrange
+  - first:
+      213: 4567293428286917174
+    second: BaseMediumArashOrange
+  - first:
+      213: -5309672571005865041
+    second: BaseSmallArashOrange
+  - first:
+      213: -8932764637636661334
+    second: HeavyWeapon1ArashOrange
+  - first:
+      213: -5153862898854056181
+    second: HeavyWeapon2ArashOrange
+  - first:
+      213: -5848752448920307521
+    second: SmallWeaponArashOrange
+  - first:
+      213: 1976299631293258968
+    second: MediumWeapon1ArashOrange
+  - first:
+      213: -2642823460401147333
+    second: MediumWeapon2ArashOrange
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CarrierArashOrange
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 16
+        width: 1076
+        height: 1099
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3b933c05e9635f0800000000000000
+      internalID: -777259815964920892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BattleshipArashOrange
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 30
+        width: 627
+        height: 1497
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097604bfa06c20d00800000000000000
+      internalID: 937529422913759120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrigateArashOrange
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 24
+        width: 233
+        height: 602
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768bfdf4706fbbd20800000000000000
+      internalID: 3295498063616915559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorvetteArashOrange
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 766
+        width: 135
+        height: 385
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3890e388b40a61630800000000000000
+      internalID: 3897478773804501379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyerArashOrange
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1148
+        width: 432
+        height: 888
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6df111e9eed143f10800000000000000
+      internalID: 2248455024656064470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberArashOrange
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1826
+        width: 175
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd43f1d374ec92bd0800000000000000
+      internalID: -2654363699994741539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterArashOrange
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1797
+        width: 182
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1482efa5c194ee550800000000000000
+      internalID: 6191966923815528513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine1ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1596
+        width: 363
+        height: 452
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55b03e2356f6f2770800000000000000
+      internalID: 8588205494854945621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine2ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 1479
+        width: 306
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a453b327323282b0800000000000000
+      internalID: -5583845375582448477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine3ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 1865
+        y: 1190
+        width: 158
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90821970bb7269bd0800000000000000
+      internalID: -2623866048657414135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine4ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1596
+        width: 94
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb2c1fbdd32c9b60800000000000000
+      internalID: 7754112093726190536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileArashOrange
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1532
+        width: 16
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848958bb2d6964900800000000000000
+      internalID: 668387426544490568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorpedoArashOrange
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1532
+        width: 21
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cce9989275901e0800000000000000
+      internalID: -2231156304471208805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage1ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1847
+        width: 186
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296c7c1d3f6542ef0800000000000000
+      internalID: -133886483717699950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage2ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1957
+        width: 178
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78df93b4149c29a50800000000000000
+      internalID: 6526500092285418887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage3ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1806
+        width: 209
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b6dec029d6caac0800000000000000
+      internalID: -3842575908004336862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage4ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1680
+        width: 138
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c730edb810a8fa920800000000000000
+      internalID: 3003771215725593468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage5ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1669
+        width: 144
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aacd80e57df1dcd0800000000000000
+      internalID: -2534966432512488797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage6ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1584
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b7c7607e9d66fd0800000000000000
+      internalID: -2348950569357640884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage7ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1579
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d876b0cdfd2e783d0800000000000000
+      internalID: -3204343158753499251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Damage8ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1584
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f043f07f70f3ea0800000000000000
+      internalID: -5890981029883932869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseHeavyArashOrange
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1507
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2fcee959e4131720800000000000000
+      internalID: 2815617184505450284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseMediumArashOrange
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1385
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a840aac29426f30800000000000000
+      internalID: 4567293428286917174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseSmallArashOrange
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1289
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa37f83bde04056b0800000000000000
+      internalID: -5309672571005865041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeapon1ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1732
+        width: 60
+        height: 303
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafee7fc3e1780480800000000000000
+      internalID: -8932764637636661334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeapon2ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 1793
+        width: 110
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f2db4fffcc978b0800000000000000
+      internalID: -5153862898854056181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallWeaponArashOrange
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1648
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8b8eeb2ae05dea0800000000000000
+      internalID: -5848752448920307521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon1ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1664
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc58f43b0a3d6b10800000000000000
+      internalID: 1976299631293258968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon2ArashOrange
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1664
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3298b6a01ec25bd0800000000000000
+      internalID: -2642823460401147333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

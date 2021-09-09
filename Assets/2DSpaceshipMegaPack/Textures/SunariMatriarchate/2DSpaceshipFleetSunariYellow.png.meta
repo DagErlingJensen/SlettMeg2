@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 77ee14ce0bde6cd40a6aa7dc4cbe092a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7280589063246340736
+    second: BattleshipSunariYellow
+  - first:
+      213: -1241608844079664714
+    second: DestroyerSunariYellow
+  - first:
+      213: -3341887420001620047
+    second: CarrierSunariYellow
+  - first:
+      213: 5361369847136893435
+    second: FrigateSunariYellow
+  - first:
+      213: 5959614753645226557
+    second: FighterSunariYellow
+  - first:
+      213: -3582589952508059462
+    second: BomberSunariYellow
+  - first:
+      213: 567966928647216303
+    second: CorvetteSunariYellow
+  - first:
+      213: 2999749222379163853
+    second: Engine4SunariYellow
+  - first:
+      213: -6416645571467672237
+    second: Engine3SunariYellow
+  - first:
+      213: 7648581590100873003
+    second: Engine2SunariYellow
+  - first:
+      213: -7701135144585138172
+    second: Engine1SunariYellow
+  - first:
+      213: -3837675973203373145
+    second: TorpedoSunariYellow
+  - first:
+      213: 8733773390236196479
+    second: MissileSunariYellow
+  - first:
+      213: 7315695180002838046
+    second: BaseHeavySunariYellow
+  - first:
+      213: -830405767558109478
+    second: BaseMediumSunariYellow
+  - first:
+      213: 4130310702392735241
+    second: BaseSmallSunariYellow
+  - first:
+      213: -323965031339608770
+    second: HeavyWeapon1SunariYellow
+  - first:
+      213: -7263055805281104835
+    second: HeavyWeapon2SunariYellow
+  - first:
+      213: -7791900899423503344
+    second: MediumWeapon1SunariYellow
+  - first:
+      213: -7449092701080869344
+    second: MediumWeapon2SunariYellow
+  - first:
+      213: -1017952289859177303
+    second: SmallWeaponSunariYellow
+  - first:
+      213: 1790080690448137532
+    second: DamageDecal1SunariYellow
+  - first:
+      213: -6042354720525128480
+    second: DamageDecal2SunariYellow
+  - first:
+      213: 7011674134543566779
+    second: DamageDecal3SunariYellow
+  - first:
+      213: -5767347490067431044
+    second: DamageDecal4SunariYellow
+  - first:
+      213: 4913196722829397973
+    second: DamageDecal5SunariYellow
+  - first:
+      213: 958738445283873675
+    second: DamageDecal6SunariYellow
+  - first:
+      213: -5396902867565036885
+    second: DamageDecal7SunariYellow
+  - first:
+      213: -6138145118356108473
+    second: DamageDecal8SunariYellow
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BattleshipSunariYellow
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 24
+        width: 647
+        height: 1361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d9b9932d626fa90800000000000000
+      internalID: -7280589063246340736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyerSunariYellow
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 39
+        width: 457
+        height: 922
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b1f5aaa55be4cee0800000000000000
+      internalID: -1241608844079664714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierSunariYellow
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 38
+        width: 629
+        height: 1140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfe47bf81b3f91d0800000000000000
+      internalID: -3341887420001620047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrigateSunariYellow
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1096
+        width: 356
+        height: 573
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9b5106879676a40800000000000000
+      internalID: 5361369847136893435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterSunariYellow
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 1776
+        width: 155
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a63350b0ec4b250800000000000000
+      internalID: 5959614753645226557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberSunariYellow
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 1788
+        width: 181
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0afd86b65184ec0800000000000000
+      internalID: -3582589952508059462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorvetteSunariYellow
+      rect:
+        serializedVersion: 2
+        x: 1305
+        y: 1692
+        width: 247
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facdf2299e2d1e700800000000000000
+      internalID: 567966928647216303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine4SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 1498
+        width: 38
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc01a2f360041a920800000000000000
+      internalID: 2999749222379163853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine3SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1416
+        width: 74
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355061f79de73f6a0800000000000000
+      internalID: -6416645571467672237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine2SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1699
+        width: 345
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f0e89ae68352a60800000000000000
+      internalID: 7648581590100873003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine1SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1562
+        width: 338
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400f9bb6362102590800000000000000
+      internalID: -7701135144585138172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorpedoSunariYellow
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1944
+        width: 24
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a359260906ddbac0800000000000000
+      internalID: -3837675973203373145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileSunariYellow
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1943
+        width: 14
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e99c9ff98943970800000000000000
+      internalID: 8733773390236196479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseHeavySunariYellow
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1939
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e164b198102968560800000000000000
+      internalID: 7315695180002838046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseMediumSunariYellow
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1846
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad66345aa5ec974f0800000000000000
+      internalID: -830405767558109478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseSmallSunariYellow
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1770
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906fc1453bfc15930800000000000000
+      internalID: 4130310702392735241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeapon1SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1820
+        width: 52
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35ba5b358b018bf0800000000000000
+      internalID: -323965031339608770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeapon2SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1820
+        width: 96
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c8166f931743b90800000000000000
+      internalID: -7263055805281104835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon1SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1695
+        width: 41
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01cb0dc4a6b9dd390800000000000000
+      internalID: -7791900899423503344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon2SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 1695
+        width: 61
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026ae15c7a18f9890800000000000000
+      internalID: -7449092701080869344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallWeaponSunariYellow
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 1693
+        width: 40
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4f5a429c18fd1f0800000000000000
+      internalID: -1017952289859177303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal1SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1480
+        width: 158
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d727957e4a7d810800000000000000
+      internalID: 1790080690448137532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal2SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 1567
+        width: 158
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ece13c356e352ca0800000000000000
+      internalID: -6042354720525128480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal3SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1450
+        width: 180
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb78346d9787e4160800000000000000
+      internalID: 7011674134543566779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal4SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1349
+        width: 117
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c714a46b30446ffa0800000000000000
+      internalID: -5767347490067431044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal5SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1342
+        width: 121
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df0cdf536e2f2440800000000000000
+      internalID: 4913196722829397973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal6SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1269
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83d7af498f1e4d00800000000000000
+      internalID: 958738445283873675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal7SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1260
+        width: 58
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baabf7b9f695a15b0800000000000000
+      internalID: -5396902867565036885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal8SunariYellow
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1269
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b0690498de0daa0800000000000000
+      internalID: -6138145118356108473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

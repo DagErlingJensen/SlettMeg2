@@ -1,0 +1,17 @@
+By default the spaceships have shadows on the right side to give a 3D effect.
+
+However you maybe want to have these shadows gone.
+
+You can either remove the shadows in the PSD file (deactivate the subfolder called "shadows") 
+or use the textures in this folder.
+
+How to use them?
+
+The "no shadow" textures are intended to overwrite the default textures. This way all 
+the prefabs will be auto updated.
+
+1. rename the "no shadow" textures by removing the "NoShadow" suffix. Now the "no shadow" texture 
+is named exactly the same as the default texture.
+
+2. Copy + paste the "no shadow" texture to the texture folder and overwrite the existing file.
+You have to do the copy paste outside unity - means in windows/linux/max.

@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 5f902c648c477f449b66e6098d659ca5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3932391108237430614
+    second: BattleshipVyrkulCyan
+  - first:
+      213: 4551381543338775277
+    second: CarrierVyrkulCyan
+  - first:
+      213: 8883116307228611243
+    second: DestroyerVyrkulCyan
+  - first:
+      213: 8394361023521474040
+    second: FrigateVyrkulCyan
+  - first:
+      213: -4358406931220608415
+    second: CorvetteVyrkulCyan
+  - first:
+      213: 2615568475708746848
+    second: FighterVyrkulCyan
+  - first:
+      213: -5808383824868287090
+    second: BomberVyrkulCyan
+  - first:
+      213: -7331243442095880184
+    second: Engine1VyrkulCyan
+  - first:
+      213: -3074397349199622626
+    second: Engine2VyrkulCyan
+  - first:
+      213: -4306167437518812070
+    second: Engine3VyrkulCyan
+  - first:
+      213: -5867149371283419842
+    second: DamageDecal1VyrkulCyan
+  - first:
+      213: 7268309802876622632
+    second: DamageDecal2VyrkulCyan
+  - first:
+      213: -4453132091985807675
+    second: DamageDecal3VyrkulCyan
+  - first:
+      213: 2620014649838753138
+    second: DamageDecal4VyrkulCyan
+  - first:
+      213: 4063267095558932705
+    second: DamageDecal5VyrkulCyan
+  - first:
+      213: 8527205779480793142
+    second: DamageDecal6VyrkulCyan
+  - first:
+      213: 6725957991275842396
+    second: DamageDecal7VyrkulCyan
+  - first:
+      213: 8588772765506623860
+    second: DamageDecal8VyrkulCyan
+  - first:
+      213: 1925432491113868467
+    second: MissileVyrkulCyan
+  - first:
+      213: 5543019779192743315
+    second: TorpedoVyrkulCyan
+  - first:
+      213: 7636094697259393526
+    second: BaseHeavyVyrkulCyan
+  - first:
+      213: 8602526823133803072
+    second: BaseMediumVyrkulCyan
+  - first:
+      213: -1034973864401811485
+    second: BaseSmallVyrkulCyan
+  - first:
+      213: -140754825135643988
+    second: HeavyWeaponVyrkulCyan
+  - first:
+      213: -1115239359006681708
+    second: MediumWeapon1VyrkulCyan
+  - first:
+      213: 1166805429221180775
+    second: MediumWeapon2VyrkulCyan
+  - first:
+      213: -2604263946652942104
+    second: SmallWeaponVyrkulCyan
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BattleshipVyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 1320
+        y: 12
+        width: 704
+        height: 1721
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa07a9b2f175d69c0800000000000000
+      internalID: -3932391108237430614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierVyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 14
+        width: 550
+        height: 1410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de21aff3661c92f30800000000000000
+      internalID: 4551381543338775277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyerVyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 15
+        width: 483
+        height: 981
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba257d6773b274b70800000000000000
+      internalID: 8883116307228611243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrigateVyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1522
+        width: 176
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5c16b20e2ce7470800000000000000
+      internalID: 8394361023521474040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorvetteVyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 1080
+        width: 180
+        height: 339
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16acef5ecf3d383c0800000000000000
+      internalID: -4358406931220608415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterVyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 137
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c6458bbad5c4420800000000000000
+      internalID: 2615568475708746848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberVyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1220
+        width: 219
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8dd9977fa9746fa0800000000000000
+      internalID: -5808383824868287090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine1VyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 1712
+        y: 1896
+        width: 51
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80886f79ee0324a90800000000000000
+      internalID: -7331243442095880184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine2VyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 1779
+        y: 1847
+        width: 103
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ecd8656eb8555d0800000000000000
+      internalID: -3074397349199622626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine3VyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 1765
+        width: 144
+        height: 268
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c4657d78b6d34c0800000000000000
+      internalID: -4306167437518812070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal1VyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1847
+        width: 182
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3dce787bb2b39ea0800000000000000
+      internalID: -5867149371283419842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal2VyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 1958
+        width: 181
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82753fda1493ed460800000000000000
+      internalID: 7268309802876622632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal3VyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1809
+        width: 207
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c63b4fb4fb4332c0800000000000000
+      internalID: -4453132091985807675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal4VyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1681
+        width: 141
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27555fd41792c5420800000000000000
+      internalID: 2620014649838753138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal5VyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1670
+        width: 144
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8c25235ef936830800000000000000
+      internalID: 4063267095558932705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal6VyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1584
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6305c943a78b65670800000000000000
+      internalID: 8527205779480793142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal7VyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1580
+        width: 67
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b423c4827675d50800000000000000
+      internalID: 6725957991275842396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal8VyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 1585
+        width: 72
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47952903353713770800000000000000
+      internalID: 8588772765506623860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileVyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1687
+        width: 54
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc66d736a288ba10800000000000000
+      internalID: 1925432491113868467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorpedoVyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1605
+        width: 57
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3956fb9fe13ccec40800000000000000
+      internalID: 5543019779192743315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseHeavyVyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1857
+        width: 181
+        height: 181
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1e36d5babd8f960800000000000000
+      internalID: 7636094697259393526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseMediumVyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1926
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042f8a74190526770800000000000000
+      internalID: 8602526823133803072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseSmallVyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1969
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7448cf0c803a1f0800000000000000
+      internalID: -1034973864401811485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeaponVyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1449
+        width: 241
+        height: 413
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca22e577b30fb0ef0800000000000000
+      internalID: -140754825135643988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon1VyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1449
+        width: 218
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4955fd636bfd580f0800000000000000
+      internalID: -1115239359006681708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon2VyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1791
+        width: 152
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 765c9ba1b53513010800000000000000
+      internalID: 1166805429221180775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallWeaponVyrkulCyan
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1446
+        width: 113
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0056e0dbbcbdbd0800000000000000
+      internalID: -2604263946652942104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

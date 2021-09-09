@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 3597ef5698e707546aaa7313386514dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -318596228410685046
+    second: 2DCorvetteHumanYellow
+  - first:
+      213: 7752640577220684735
+    second: 2DBomberHumanYellow
+  - first:
+      213: -5498197300238468902
+    second: 2DFighterHumanYellow
+  - first:
+      213: -1407025417870668567
+    second: 2DFrigateHumanYellow
+  - first:
+      213: 8175716223582350687
+    second: 2DDestroyerHumanYellow
+  - first:
+      213: 8402854204603323501
+    second: 2DBattleshipHumanYellow
+  - first:
+      213: -2407686438268685336
+    second: 2DCarrierHumanYellow
+  - first:
+      213: 2032828175532015999
+    second: 2DMissileYellow
+  - first:
+      213: -7860940002112530707
+    second: 2DTorpedoYellow
+  - first:
+      213: 2839961128387300697
+    second: 2DEngine4HumanYellow
+  - first:
+      213: 8485536480968573984
+    second: 2DEngine3HumanYellow
+  - first:
+      213: -5027807893511584227
+    second: 2DEngine2HumanYellow
+  - first:
+      213: 1920410636700337315
+    second: 2DEngine1HumanYellow
+  - first:
+      213: -4278785197532133406
+    second: DamageDecal1Yellow
+  - first:
+      213: -1583479642307811635
+    second: DamageDecal2Yellow
+  - first:
+      213: -8643157202249234690
+    second: DamageDecal3Yellow
+  - first:
+      213: 5042363518675592087
+    second: DamageDecal4Yellow
+  - first:
+      213: -5148844464237594690
+    second: DamageDecal5Yellow
+  - first:
+      213: 2454780222421537909
+    second: DamageDecal6Yellow
+  - first:
+      213: -6046728265865653946
+    second: DamageDecal7Yellow
+  - first:
+      213: -7075934583448872057
+    second: DamageDecal8Yellow
+  - first:
+      213: -8636358261471319881
+    second: 2DWeaponBaseLargeHumanYellow
+  - first:
+      213: 5451931407563682029
+    second: 2DWeaponBaseMediumHumanYellow
+  - first:
+      213: 3280276193313865158
+    second: 2DWeaponBaseSmallHumanYellow
+  - first:
+      213: -337087996617510993
+    second: 2DSmallWeaponHumanYellow
+  - first:
+      213: -8645839833813022410
+    second: 2DMediumWeapon1HumanYellow
+  - first:
+      213: -6720654289458865080
+    second: 2DMediumWeapon2HumanYellow
+  - first:
+      213: -1492905920813795723
+    second: 2DLargeWeapon1HumanYellow
+  - first:
+      213: 5855861965149608916
+    second: 2DLargeWeapon2HumanYellow
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2DCorvetteHumanYellow
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1638
+        width: 260
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a894dc21b6e149bf0800000000000000
+      internalID: -318596228410685046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DBomberHumanYellow
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1787
+        width: 104
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbba48c9789e69b60800000000000000
+      internalID: 7752640577220684735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DFighterHumanYellow
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1767
+        width: 142
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad83646afaa72b3b0800000000000000
+      internalID: -5498197300238468902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DFrigateHumanYellow
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1080
+        width: 315
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ec8fd156dd397ce0800000000000000
+      internalID: -1407025417870668567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DDestroyerHumanYellow
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 24
+        width: 317
+        height: 956
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d260ba69af57170800000000000000
+      internalID: 8175716223582350687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DBattleshipHumanYellow
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 40
+        width: 568
+        height: 1390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6457ccf06fec9470800000000000000
+      internalID: 8402854204603323501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DCarrierHumanYellow
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 40
+        width: 815
+        height: 1168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3387cd0fd269ed0800000000000000
+      internalID: -2407686438268685336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DMissileYellow
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1488
+        width: 8
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71cdfb847e063c10800000000000000
+      internalID: 2032828175532015999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DTorpedoYellow
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1484
+        width: 18
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de69c6597b458e290800000000000000
+      internalID: -7860940002112530707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DEngine4HumanYellow
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1439
+        width: 46
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d41797991996720800000000000000
+      internalID: 2839961128387300697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DEngine3HumanYellow
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1401
+        width: 111
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02400cc987ea2c570800000000000000
+      internalID: 8485536480968573984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DEngine2HumanYellow
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 1658
+        width: 346
+        height: 365
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16465cfb53a93ab0800000000000000
+      internalID: -5027807893511584227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DEngine1HumanYellow
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 1596
+        width: 330
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4c76f9c4ba6aa10800000000000000
+      internalID: 1920410636700337315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal1Yellow
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1436
+        width: 186
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7c5e66883be94c0800000000000000
+      internalID: -4278785197532133406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal2Yellow
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1467
+        width: 181
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc62e2ba7a9560ae0800000000000000
+      internalID: -1583479642307811635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal3Yellow
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1447
+        width: 213
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6431661565d0880800000000000000
+      internalID: -8643157202249234690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal4Yellow
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1302
+        width: 135
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7932c0797e21af540800000000000000
+      internalID: 5042363518675592087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal5Yellow
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1302
+        width: 136
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7b1615d31ab88b0800000000000000
+      internalID: -5148844464237594690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal6Yellow
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1328
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57417173b91211220800000000000000
+      internalID: 2454780222421537909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal7Yellow
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1325
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64193cbdda4b51ca0800000000000000
+      internalID: -6046728265865653946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal8Yellow
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1320
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bd0ab7cfa3dcd90800000000000000
+      internalID: -7075934583448872057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DWeaponBaseLargeHumanYellow
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1864
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8edf72bed752880800000000000000
+      internalID: -8636358261471319881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DWeaponBaseMediumHumanYellow
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1757
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0f0a7cab629ab40800000000000000
+      internalID: 5451931407563682029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DWeaponBaseSmallHumanYellow
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1693
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdb4a371d1e58d20800000000000000
+      internalID: 3280276193313865158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSmallWeaponHumanYellow
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1693
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fafa097c04c625bf0800000000000000
+      internalID: -337087996617510993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DMediumWeapon1HumanYellow
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1756
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63907a09a7ec30880800000000000000
+      internalID: -8645839833813022410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DMediumWeapon2HumanYellow
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1757
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c599208807bb2a0800000000000000
+      internalID: -6720654289458865080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DLargeWeapon1HumanYellow
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1860
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576f0da89f1284be0800000000000000
+      internalID: -1492905920813795723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DLargeWeapon2HumanYellow
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1848
+        width: 69
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db967e7e63344150800000000000000
+      internalID: 5855861965149608916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

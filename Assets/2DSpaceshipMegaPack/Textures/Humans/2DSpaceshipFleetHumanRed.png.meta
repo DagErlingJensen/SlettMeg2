@@ -1,0 +1,804 @@
+fileFormatVersion: 2
+guid: 43da08d292a2e1e448f489710586040f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3234638355170622857
+    second: 2DDestroyerHumanRed
+  - first:
+      213: -955785297712307002
+    second: 2DFrigateHumanRed
+  - first:
+      213: 5418502309713699798
+    second: 2DBattleshipHumanRed
+  - first:
+      213: -3930405358562072161
+    second: 2DCarrierHumanRed
+  - first:
+      213: 7206426990627009706
+    second: 2DBomberHumanRed
+  - first:
+      213: -4273819522936818461
+    second: 2DCorvetteHumanRed
+  - first:
+      213: -3296408804855752304
+    second: 2DMissileRed
+  - first:
+      213: 7351299235545487292
+    second: 2DTorpedoRed
+  - first:
+      213: -6542358917513507860
+    second: 2DEngine4HumanRed
+  - first:
+      213: -9016688835723021301
+    second: 2DEngine3HumanRed
+  - first:
+      213: 8226258425337702346
+    second: 2DEngine2HumanRed
+  - first:
+      213: -903193917446522371
+    second: 2DEngine1HumanRed
+  - first:
+      213: 2835049827365218901
+    second: DamageDecal1Red
+  - first:
+      213: 150070764094532391
+    second: DamageDecal2Red
+  - first:
+      213: -3629305893144840305
+    second: DamageDecal3Red
+  - first:
+      213: -5378737310706912615
+    second: DamageDecal4Red
+  - first:
+      213: 1907961379048441818
+    second: DamageDecal5Red
+  - first:
+      213: -715558709997838060
+    second: DamageDecal6Red
+  - first:
+      213: 2623468879880093803
+    second: DamageDecal7Red
+  - first:
+      213: 6077060179284091855
+    second: DamageDecal8Red
+  - first:
+      213: -6102735175991438987
+    second: 2DWeaponBaseLargeHumanRed
+  - first:
+      213: 4906144845132780942
+    second: 2DWeaponBaseMediumHumanRed
+  - first:
+      213: -4517802809531556099
+    second: 2DWeaponBaseSmallHumanRed
+  - first:
+      213: 3631838743586726490
+    second: 2DSmallWeaponHumanRed
+  - first:
+      213: 3394365751040669183
+    second: 2DMediumWeapon1HumanRed
+  - first:
+      213: -999589955454359599
+    second: 2DMediumWeapon2HumanRed
+  - first:
+      213: -7210252735489446066
+    second: 2DLargeWeapon1HumanRed
+  - first:
+      213: -6098307160949016363
+    second: 2DLargeWeapon2HumanRed
+  - first:
+      213: 1371746353364643616
+    second: 2DFighterHumanRed
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2DDestroyerHumanRed
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 40
+        width: 317
+        height: 946
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98d7cc8327eb3ec20800000000000000
+      internalID: 3234638355170622857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DFrigateHumanRed
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1080
+        width: 313
+        height: 599
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c42150f55e5cb2f0800000000000000
+      internalID: -955785297712307002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DBattleshipHumanRed
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 42
+        width: 566
+        height: 1390
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d36e196423623b40800000000000000
+      internalID: 5418502309713699798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DCarrierHumanRed
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 40
+        width: 815
+        height: 1168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99ad9b86256479c0800000000000000
+      internalID: -3930405358562072161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DBomberHumanRed
+      rect:
+        serializedVersion: 2
+        x: 1616
+        y: 1787
+        width: 104
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa43c1caa2f520460800000000000000
+      internalID: 7206426990627009706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DCorvetteHumanRed
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1636
+        width: 260
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4b83d99c750b4c0800000000000000
+      internalID: -4273819522936818461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DMissileRed
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 1488
+        width: 8
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0995a1838adc042d0800000000000000
+      internalID: -3296408804855752304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DTorpedoRed
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 1484
+        width: 18
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb71a44b4bf050660800000000000000
+      internalID: 7351299235545487292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DEngine4HumanRed
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1438
+        width: 42
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb8f783a3fd435a0800000000000000
+      internalID: -6542358917513507860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DEngine3HumanRed
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 1417
+        width: 111
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04bf70c6494ed280800000000000000
+      internalID: -9016688835723021301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DEngine2HumanRed
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1684
+        width: 339
+        height: 342
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac761d8047a892270800000000000000
+      internalID: 8226258425337702346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DEngine1HumanRed
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 1605
+        width: 329
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df97e4bdae53773f0800000000000000
+      internalID: -903193917446522371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal1Red
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1436
+        width: 186
+        height: 201
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ae2a81cce185720800000000000000
+      internalID: 2835049827365218901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal2Red
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1467
+        width: 177
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ba6099098251200800000000000000
+      internalID: 150070764094532391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal3Red
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1450
+        width: 211
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87bed1e48d12adc0800000000000000
+      internalID: -3629305893144840305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal4Red
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1302
+        width: 132
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992bc27e9e2ea55b0800000000000000
+      internalID: -5378737310706912615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal5Red
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1302
+        width: 136
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7c853f3c07a7a10800000000000000
+      internalID: 1907961379048441818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal6Red
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1328
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41164aaf423d116f0800000000000000
+      internalID: -715558709997838060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal7Red
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1325
+        width: 64
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b608b88eb0f686420800000000000000
+      internalID: 2623468879880093803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal8Red
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1320
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc366e0190e065450800000000000000
+      internalID: 6077060179284091855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DWeaponBaseLargeHumanRed
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1864
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571dfbce0babe4ba0800000000000000
+      internalID: -6102735175991438987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DWeaponBaseMediumHumanRed
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1757
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85d0c62eb0261440800000000000000
+      internalID: 4906144845132780942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DWeaponBaseSmallHumanRed
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1693
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe1c94f74a8d41c0800000000000000
+      internalID: -4517802809531556099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DSmallWeaponHumanRed
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 1693
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52ecf05812e66230800000000000000
+      internalID: 3631838743586726490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DMediumWeapon1HumanRed
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1756
+        width: 44
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5f78c9aa53b1f20800000000000000
+      internalID: 3394365751040669183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DMediumWeapon2HumanRed
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1757
+        width: 45
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d728184b3eb022f0800000000000000
+      internalID: -999589955454359599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DLargeWeapon1HumanRed
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1861
+        width: 77
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fec50b65900fb90800000000000000
+      internalID: -7210252735489446066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DLargeWeapon2HumanRed
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1848
+        width: 69
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8b96482f57e5ba0800000000000000
+      internalID: -6098307160949016363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2DFighterHumanRed
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 1767
+        width: 142
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02fac326a0c690310800000000000000
+      internalID: 1371746353364643616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: bab454ae1e44c924e833d1338d4298fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2322613179390800323
+    second: BattleshipEnkarBlue
+  - first:
+      213: -2366513893696002439
+    second: CarrierEnkarBlue
+  - first:
+      213: 5241238129281218055
+    second: DestroyerEnkarBlue
+  - first:
+      213: 5541998158300780582
+    second: FrigateEnkarBlue
+  - first:
+      213: 2442659082947211079
+    second: CorvetteEnkarBlue
+  - first:
+      213: 1535437917088080000
+    second: FighterEnkarBlue
+  - first:
+      213: -8532877947447668447
+    second: BomberEnkarBlue
+  - first:
+      213: -298416348788109875
+    second: Engine1EnkarBlue
+  - first:
+      213: -3886510916724518936
+    second: Engine2EnkarBlue
+  - first:
+      213: -8136243964728486126
+    second: Engine3EnkarBlue
+  - first:
+      213: -112213488981213574
+    second: DamageDecal1EnkarBlue
+  - first:
+      213: -7400188717431769655
+    second: DamageDecal2EnkarBlue
+  - first:
+      213: -6516249473605092166
+    second: DamageDecal3EnkarBlue
+  - first:
+      213: -6668132735830284290
+    second: DamageDecal4EnkarBlue
+  - first:
+      213: 1838551379396969452
+    second: DamageDecal5EnkarBlue
+  - first:
+      213: -336997370342352761
+    second: DamageDecal6EnkarBlue
+  - first:
+      213: 2222397669423915705
+    second: DamageDecal7EnkarBlue
+  - first:
+      213: 2280709951964388361
+    second: DamageDecal8EnkarBlue
+  - first:
+      213: -862817634709512163
+    second: MissileEnkarBlue
+  - first:
+      213: -5034235299493436873
+    second: TorpedoEnkarBlue
+  - first:
+      213: 4953481420542814213
+    second: BaseHeavyEnkarBlue
+  - first:
+      213: -4129432858622148290
+    second: BaseMediumEnkarBlue
+  - first:
+      213: -7141122231501864440
+    second: BaseSmallEnkarBlue
+  - first:
+      213: 4184121147215455054
+    second: HeavyWeaponEnkarBlue
+  - first:
+      213: -8942304226785750375
+    second: MediumWeapon1EnkarBlue
+  - first:
+      213: -2097157984306139199
+    second: MediumWeapon2EnkarBlue
+  - first:
+      213: -2876868198175061801
+    second: SmallWeaponEnkarBlue
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 200
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BattleshipEnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 1628
+        y: 16
+        width: 393
+        height: 1997
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e45cb7e9b64cfd0800000000000000
+      internalID: -2322613179390800323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CarrierEnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 22
+        width: 546
+        height: 1487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976293ae624782fd0800000000000000
+      internalID: -2366513893696002439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DestroyerEnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 23
+        width: 247
+        height: 1287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7063a0f2f4e9cb840800000000000000
+      internalID: 5241238129281218055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FrigateEnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 26
+        width: 298
+        height: 982
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628136356f129ec40800000000000000
+      internalID: 5541998158300780582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CorvetteEnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 18
+        width: 260
+        height: 663
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f23728e7116e120800000000000000
+      internalID: 2442659082947211079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FighterEnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 720
+        width: 289
+        height: 374
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08063b686a8fe4510800000000000000
+      internalID: 1535437917088080000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BomberEnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1092
+        width: 350
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1211e9647b0259980800000000000000
+      internalID: -8532877947447668447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine1EnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1847
+        width: 58
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcdc05f69efcbdbf0800000000000000
+      internalID: -298416348788109875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine2EnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1584
+        width: 172
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef05f0b9e6501ac0800000000000000
+      internalID: -3886510916724518936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Engine3EnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 1665
+        width: 211
+        height: 296
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2175174c831461f80800000000000000
+      internalID: -8136243964728486126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal1EnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1848
+        width: 187
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e74422d66517ef0800000000000000
+      internalID: -112213488981213574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal2EnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1956
+        width: 178
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c530a2c19f3d4990800000000000000
+      internalID: -7400188717431769655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal3EnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1803
+        width: 202
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc31f9d0a1a195a0800000000000000
+      internalID: -6516249473605092166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal4EnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1680
+        width: 131
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7aea52b980673a0800000000000000
+      internalID: -6668132735830284290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal5EnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 1671
+        width: 134
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3c24e0db8d38910800000000000000
+      internalID: 1838551379396969452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal6EnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1584
+        width: 68
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788d08a5daeb25bf0800000000000000
+      internalID: -336997370342352761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal7EnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 1579
+        width: 67
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b22ba3d7ea87de10800000000000000
+      internalID: 2222397669423915705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DamageDecal8EnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1584
+        width: 71
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c198a1e95b6af10800000000000000
+      internalID: 2280709951964388361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MissileEnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1697
+        width: 49
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d106231cee7a604f0800000000000000
+      internalID: -862817634709512163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TorpedoEnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1697
+        width: 63
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73226f9eaadc22ab0800000000000000
+      internalID: -5034235299493436873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseHeavyEnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1492
+        width: 171
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508a3f87b1d4eb440800000000000000
+      internalID: 4953481420542814213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseMediumEnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1753
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31400a91be41b6c0800000000000000
+      internalID: -4129432858622148290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaseSmallEnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 1955
+        width: 65
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802cfad6a23a5ec90800000000000000
+      internalID: -7141122231501864440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: HeavyWeaponEnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1696
+        width: 241
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e432af4d30cf01a30800000000000000
+      internalID: 4184121147215455054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon1EnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1485
+        width: 141
+        height: 184
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99216f02fad86e380800000000000000
+      internalID: -8942304226785750375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MediumWeapon2EnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1485
+        width: 92
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfee8bace565e2e0800000000000000
+      internalID: -2097157984306139199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SmallWeaponEnkarBlue
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1881
+        width: 114
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d84826bd9f4318d0800000000000000
+      internalID: -2876868198175061801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
